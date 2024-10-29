@@ -1,2 +1,2 @@
-# UTS
+# FIKRI ISRULLY APRIANSYAH - 221011401622
 Jawaban UTS Matkul Kecerdasan Buatan
